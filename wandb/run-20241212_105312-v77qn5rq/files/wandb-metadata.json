@@ -1,0 +1,17 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.1",
+  "startedAt":  "2024-12-12T15:53:12.561813Z",
+  "program":  "/Users/easwaranramamurthy/Desktop/git_repos/learning_pytorch/wandb_test.py",
+  "codePath":  "wandb_test.py",
+  "git":  {
+    "remote":  "https://github.com/easwaranramamurthy/learning_pytorch.git",
+    "commit":  "b8f7b164dc3283c934c53ce3e6d12d006aac08dc"
+  },
+  "email":  "easwaran6192@gmail.com",
+  "root":  "/Users/easwaranramamurthy/Desktop/git_repos/learning_pytorch",
+  "host":  "Easwarans-MacBook-Pro.local",
+  "username":  "easwaranramamurthy",
+  "executable":  "/Users/easwaranramamurthy/miniforge3/envs/learning_pytorch/bin/python",
+  "codePathLocal":  "wandb_test.py"
+}
