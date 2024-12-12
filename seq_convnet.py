@@ -19,7 +19,7 @@ class Net(nn.Module):
         c1 = F.relu(self.conv1(input))
         c2 = F.relu(self.conv2(c1))
         m1 = F.max_pool1d(c2, kernel_size=13, stride=13)
-        m1_f = torch.flatten(m1)
+        m1_f = torch.flatten(m1,start_dim=1,end_dim=2)
         d1 = F.sigmoid(self.dense(m1_f))
         d2 = self.dense2(d1)
         return d2
