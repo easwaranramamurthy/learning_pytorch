@@ -1,0 +1,16 @@
+{"time":"2024-12-12T11:08:24.412017-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-12T11:08:24.412077-05:00","level":"INFO","msg":"created symlink","path":"/Users/easwaranramamurthy/Desktop/git_repos/learning_pytorch/wandb/run-20241212_110824-cs9vfpl0/logs/debug-core.log"}
+{"time":"2024-12-12T11:08:24.52203-05:00","level":"INFO","msg":"created new stream","id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:24.52208-05:00","level":"INFO","msg":"stream: started","id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:24.522144-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:24.522184-05:00","level":"INFO","msg":"handler: started","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:24.522194-05:00","level":"INFO","msg":"sender: started","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:24.760845-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-12T11:08:26.15506-05:00","level":"INFO","msg":"stream: closing","id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:26.155086-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-12T11:08:26.15544-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-12T11:08:26.539512-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-12T11:08:26.729987-05:00","level":"INFO","msg":"handler: closed","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:26.730148-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:26.73027-05:00","level":"INFO","msg":"sender: closed","stream_id":"cs9vfpl0"}
+{"time":"2024-12-12T11:08:26.730749-05:00","level":"INFO","msg":"stream: closed","id":"cs9vfpl0"}

@@ -1,0 +1,6 @@
+  0%|                                                    | 0/20 [00:01<?, ?it/s]
+Traceback (most recent call last):
+  File "/Users/easwaranramamurthy/Desktop/git_repos/learning_pytorch/count_a_mlp.py", line 76, in <module>
+    wandb.log({"train_loss": lossTrain.item(), "test_loss": lossTest.item() })
+                             ^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'item'

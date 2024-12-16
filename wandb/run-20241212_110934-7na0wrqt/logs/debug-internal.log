@@ -1,0 +1,18 @@
+{"time":"2024-12-12T11:09:34.852396-05:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-12T11:09:34.852435-05:00","level":"INFO","msg":"created symlink","path":"/Users/easwaranramamurthy/Desktop/git_repos/learning_pytorch/wandb/run-20241212_110934-7na0wrqt/logs/debug-core.log"}
+{"time":"2024-12-12T11:09:34.962702-05:00","level":"INFO","msg":"created new stream","id":"7na0wrqt"}
+{"time":"2024-12-12T11:09:34.962753-05:00","level":"INFO","msg":"stream: started","id":"7na0wrqt"}
+{"time":"2024-12-12T11:09:34.962838-05:00","level":"INFO","msg":"handler: started","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T11:09:34.962828-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T11:09:34.962871-05:00","level":"INFO","msg":"sender: started","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T11:09:35.195691-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-12T11:14:32.53933-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/easwaran/count_a/7na0wrqt/file_stream\": read tcp 10.0.0.132:51906->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-12T11:42:07.931422-05:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.0.0.132:51989->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-12-12T12:14:44.321761-05:00","level":"INFO","msg":"stream: closing","id":"7na0wrqt"}
+{"time":"2024-12-12T12:14:44.321792-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-12T12:14:44.322274-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-12T12:14:44.785012-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-12T12:14:44.959275-05:00","level":"INFO","msg":"handler: closed","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T12:14:44.959313-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T12:14:44.95951-05:00","level":"INFO","msg":"sender: closed","stream_id":"7na0wrqt"}
+{"time":"2024-12-12T12:14:44.959821-05:00","level":"INFO","msg":"stream: closed","id":"7na0wrqt"}

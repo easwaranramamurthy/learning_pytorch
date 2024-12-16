@@ -72,13 +72,14 @@ if __name__=="__main__":
         loss_fn.zero_grad()
         lossTrain = loss_fn(predTrain,Ytrain).item()
         loss_fn.zero_grad()
+        
+        wandb.log({"train_loss": lossTrain, "test_loss": lossTest })
 
         net.train()
         for i, (batch_X, batch_Y) in enumerate(dataloader):
             pred = net(batch_X)
             loss = loss_fn(pred,batch_Y)
             loss.backward()
-            wandb.log({"loss": loss.item()})
             optim.step()
             optim.zero_grad()
 
